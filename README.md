@@ -84,7 +84,7 @@ Documentation is half the skill in security work. Writing these forces me to act
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-rajpurohit-6d7c/)
 
 **⭐ If any of these helped you understand a room better, consider starring the repo!**
 
